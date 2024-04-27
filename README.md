@@ -11,3 +11,6 @@
 | ------------- | ------------- |
 | Tarang TV  | http://livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8  |
 | Otv News | https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8  |
+| Alankar | https://otvvid-livecdn.vidgyor.com/alankar-origin/live/playlist.m3u8 |
+| Tarang Music | https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8 |
+| Prarthana | https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8 |
