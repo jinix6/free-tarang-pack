@@ -9,13 +9,16 @@ The content obtained from TarangPlus.in is being used solely for educational pur
 ### Here 👍
 | NAME  | URL |
 | ------------- | ------------- |
-| Tarang TV  | http://livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8  |
-| Otv News | https://otvvid-livecdn.vidgyor.com/otv-origin/live/playlist.m3u8  |
-| Alankar | https://otvvid-livecdn.vidgyor.com/alankar-origin/live/playlist.m3u8 |
-| Tarang Music | https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8 |
-| Prarthana | https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/playlist.m3u8 |
+| Tarang TV  | https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/tarangtv-origin/live_240p/chunks.m3u8 |
+| Otv News | https://otvvid-livecdn.vidgyor.com/otv-origin/live/otv-origin/live_240p/chunks.m3u8 |
+| Alankar | https://otvvid-livecdn.vidgyor.com/alankar-origin/live/alankar-origin/live_240p/chunks.m3u8 |
+| Tarang Music | https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/tarangmusic-origin/live_240p/chunks.m3u8 |
+| Prarthana | https://otvvid-livecdn.vidgyor.com/prarthana-origin/live/prarthana-origin/live_240p/chunks.m3u8 |
 
-
+```
+Quality: live_240p, live_360p, live_720p
+https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/tarangtv-origin/< **HERE QUALITY** >/chunks.m3u8
+```
 
 ## Using URL (m3u8) in VLC Mobile App
 
