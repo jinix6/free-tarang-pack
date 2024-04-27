@@ -2,11 +2,11 @@
   <h2>Disclaimer</h2>
 </div>
 <div align="justify">
-  This GitHub repository is created solely for educational purposes and is intended to provide information on obtaining TV channel m3u8 files. The content shared in this repository is for educational and research purposes only. The creators of this repository do not endorse or promote any illegal activities, including the unauthorized distribution or use of copyrighted materials. Users are responsible for complying with all applicable laws and regulations regarding the use of the information provided in this repository. The creators disclaim any liability for the misuse or illegal use of the information contained herein. By accessing and using this repository, users agree to use the information provided responsibly and lawfully.
+The content obtained from TarangPlus.in is being used solely for educational purposes. We acknowledge that TarangPlus.in owns the rights to the content, and it is used in accordance with fair use principles and any applicable permissions provided by TarangPlus.in. We do not claim ownership of this content, and all rights remain with TarangPlus.in.
 </div>
 
 
-
+### Here 👍
 | NAME  | URL |
 | ------------- | ------------- |
 | Tarang TV  | http://livecdn.vidgyor.com/tarangtv-origin/live/playlist.m3u8  |
