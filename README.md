@@ -17,7 +17,7 @@ The content obtained from TarangPlus.in is being used solely for educational pur
 
 ```
 Quality: live_240p, live_360p, live_720p
-https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/tarangtv-origin/< **HERE QUALITY** >/chunks.m3u8
+Example: https://otvvid-livecdn.vidgyor.com/tarangtv-origin/live/tarangtv-origin/< **HERE QUALITY** >/chunks.m3u8
 ```
 
 ## Using URL (m3u8) in VLC Mobile App
